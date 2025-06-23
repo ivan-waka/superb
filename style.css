@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+}
+
+#movies-list div {
+    border: 0.1px solid #ccc;
+    padding: 500px;
+    margin: 500px;
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+}
